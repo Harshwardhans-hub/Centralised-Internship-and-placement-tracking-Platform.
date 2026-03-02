@@ -1,4 +1,4 @@
-# SSH Alumni Connect - Placement Management System
+#Centralised Internship and placement tracking Platform.
 
 A comprehensive full-stack web application for managing college placement activities, student applications, and alumni connections.
 
